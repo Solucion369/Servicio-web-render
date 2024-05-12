@@ -1,4 +1,4 @@
 flask
 selenium
-flaks_cors
+flask_cors
 gunicorn
