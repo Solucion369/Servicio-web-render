@@ -4,8 +4,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from flask_cors import CORS
 
-from webdriver_manager.chrome import ChromeDriverManager
-
 # driver = webdriver.Chrome()
 def crear_app():
         
