@@ -1,0 +1,4 @@
+flask
+selenium
+flaks_cors
+gunicorn
